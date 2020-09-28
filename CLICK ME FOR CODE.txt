@@ -54,3 +54,10 @@ REM put your file name here
 STRING start your.exe.file.name
 DELAY 200
 ENTER
+DELAY 200
+STRING exit
+DELAY 200
+ENTER
+STRING exit
+DELAY 200
+ENTER
