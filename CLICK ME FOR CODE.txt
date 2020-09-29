@@ -1,6 +1,6 @@
 REM ---> this was made by NotAidan. Quick description of me, i am a 13 year old hacker just making fun scripts
 REM ---> First this will disable the anti-virus on windows(you can change it if it doesnt work)
-REM ---> I AM NOT RESPONSIBLE IF YOU USE THIS ILLEGALLY IN ANYWAY. THIS IS FOR EDUCATIONAL PURPOSES ONLY
+REM ---> This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period. I am not responsible or reliable if you use this script for anything maliciously
 DELAY 1000
 GUI s
 DELAY 200
