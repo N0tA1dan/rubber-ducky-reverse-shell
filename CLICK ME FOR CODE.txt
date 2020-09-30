@@ -1,6 +1,6 @@
 REM ---> this was made by NotAidan. Quick description of me, i am a 13 year old hacker just making fun scripts
+REM ---> THIS IS ONLY FOR TESTING PURPOSES AND CAN ONLY BE USED WHERE STRICT CONSENT HAS BEEN GIVEN. DO NOT USE THIS FOR ILLEGAL PURPOSES, PERIOD. I AM NOT RESPONSIBLE OR RELIABLE IF YOU USE THIS SCRIPT FOR MALICIOUS INTENT
 REM ---> First this will disable the anti-virus on windows(you can change it if it doesnt work)
-REM ---> This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period. I am not responsible or reliable if you use this script for anything maliciously
 DELAY 1000
 GUI s
 DELAY 200
